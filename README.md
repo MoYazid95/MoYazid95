@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammed 
-- 👀 I’m interested in Data Analytics (Python, R, SQL) and Web Development (HTML, CSS, Booststrap,JavaScript, PHP, MysQL )
+- 👀 I’m interested in Data Analytics (Python, SQL, Excel, Power BI, Tableau, MysQL, SQLite, PostgresSQL) and Data Engineering
 - 🌱 I’m currently learning statistics for Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on project that relate with data analysis with python, R, SQL, and web development
+- 💞️ I’m looking to collaborate on project that relate with data analysis with python, R, SQL, and Front web development
 - You can reach me on shittu.muhammed.oladipupo@gmail.com
 
 
